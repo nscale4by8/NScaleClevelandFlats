@@ -2,17 +2,17 @@
 layout: default
 ---
 
-# Structures 
+# [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](structures/buildingForbes/prototypeFrontElevation.png)  | ![](structures/buildingForbes/model.png) |
-Forbes Ave. Today | 1970s Forbes Ave.
+[Forbes Ave. Today](structures/building21Augsburger/building21Augsburger.md) | [1970s Forbes Ave.](structures/building21Augsburger/building21Augsburger.md)
 
 <hr>
 
-# Cuyahoga River Lift Bridges 
+# [Cuyahoga River Lift Bridges](./liftbridges/liftbridges.md) 
 [(click for more)](./liftbridges/liftbridges.md)
 
 Prototype                           |   Model                   
@@ -22,7 +22,7 @@ Prototype                           |   Model
 
 <hr>
 
-# Track Plan 
+# [Track Plan](trackPlan/trackPlan.md) 
 [(click for more)](trackPlan/trackPlan.md)
 
 Plan                                |   Overview                   
@@ -32,7 +32,7 @@ Plan Including Annex | Annex in Foreground
 
 <hr>
 
-# Benchwork
+# [Benchwork](benchwork/benchwork.md)
 [(click for more)](benchwork/benchwork.md)
 
 ![Benchwork](benchwork/TransferTrackPlanWithElevations.jpg)
