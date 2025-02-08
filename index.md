@@ -28,13 +28,13 @@ Prototype                           |   Model
 Plan                                |   Overview                   
 :----------------------------------:|:----------------------------------:
 ![](trackPlan/bothParts.png)  | ![](trackPlan/overview0.png) | 
-Plan Including Annex | Annex in Foreground
+[Plan Including Annex](trackPlan/trackPlan.md) | [Annex in Foreground](trackPlan/trackPlan.md)
 
 <hr>
 
 # [Benchwork](benchwork/benchwork.md)
 [(click for more)](benchwork/benchwork.md)
 
-![Benchwork](benchwork/https://nscale4by8.github.io/nscaleClevelandFlats/TransferTrackPlanWithElevations.jpg)
+![Benchwork](benchwork/IMG_0105.png)
 
 <hr>
