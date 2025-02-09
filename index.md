@@ -38,3 +38,8 @@ Plan                                |   Overview
 ![Benchwork](benchwork/IMG_0105.png)
 
 <hr>
+
+# [Electronics](controls/controls.md)
+[(click for more)](controls/controls.md)
+
+![Controls](controls/IMG_0130.jpg)
