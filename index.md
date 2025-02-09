@@ -43,3 +43,7 @@ Plan                                |   Overview
 [(click for more)](controls/controls.md)
 
 ![Controls](controls/IMG_0130.jpg)
+
+<hr>
+
+# [Presentation About 3D Printing](3DMintingForModelRailroading.key.pdf)
