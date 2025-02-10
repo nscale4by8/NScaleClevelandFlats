@@ -14,7 +14,7 @@ Model Rendered in Blender           |   Printed & Assembled
 
 ![In the Neighborhood](modelTurrteSetting1.png)
 
-The structure next door is St. Rita's. There is a [brief article](../buildingStRitaStartToFinish/buildingStRita.md) about designing and printing St. Rita's.
+The structure next door is St. Rita's. There is a [brief article](../buildingStRitaStartToFinish/buildingStRitaStartToFinish.md) about designing and printing St. Rita's.
 
 ## Inspiration
 
