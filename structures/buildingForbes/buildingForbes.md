@@ -2,9 +2,9 @@
 
 # Forbes Building ![](modelForbesRender.png)
 
-On a trip to Pittsburgh, PA., a walk along Forbes Ave. near the University of Pittsburgh campus provided many intersting architectural examples. Happily, the economy of that area is thriving. I'm forced to image how the same structures may have appeared in the bleak malaise of the 1970s.
+On a trip to Pittsburgh, PA., a walk along Forbes Ave. near the University of Pittsburgh campus provided many interesting architectural examples. Happily, the economy of that area is thriving. I'm forced to image how the same structures may have appeared in the bleak malaise of the 1970s.
 
-![](modelSideELevation1.png)
+![](modelSideElevation1.png)
 ![](modelSetting.png)
 ![](modelSetting2.png)
 ![](modelRoofDetails.png)

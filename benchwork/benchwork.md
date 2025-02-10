@@ -43,7 +43,7 @@ As of mid-2024, a dearth of space for more 3D printed structures on the main 4'x
  
 ![](annex2024LightWeightPlywood0.png)
 ![](annex2024LightWeightPlywood1.png)
-![](annex2024Uderside0.png)
+![](annex2024Underside0.png)
 
 The layout represents the urban industrial squalor of the Cleveland Flats in the 1970s. A kindred spirit, David K. Smith, modeled the Jersey City Industrial Railroad and wrote, "Perhaps the documentation on this layout will inspire someone else to take it all the way to the finish line." Inspiration greatly influenced adaptation of David K. Smith's Jersey City Industrial Railroad plan for a slightly larger 4'x30" form factor and for integration with my existing layout.
 

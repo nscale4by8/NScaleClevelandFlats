@@ -20,14 +20,14 @@ But, the Hyde building continued to loom in my imagination. After endless printe
 
 ## Ghost Wall
 
-I was inspired to model a "ghost wall" by the fantasic example in the [Hudson Terminal N Scale Layout Tour with Chris Brimley](https://youtu.be/8t9uAx1_Gng?t=705) I'm intreagued by indications that structures have a history and have evolved over time with changing uses. A ghost wall makes me speculate about the building that was demolished.
+I was inspired to model a "ghost wall" by the fantastic example in the [Hudson Terminal N Scale Layout Tour with Chris Brimley](https://youtu.be/8t9uAx1_Gng?t=705) I'm intrigued by indications that structures have a history and have evolved over time with changing uses. A ghost wall makes me speculate about the building that was demolished.
 
 
 Ghost Wall         |   Detail                   
 :----------------------------------:|:----------------------------------:
 ![](modelHydeGhostWall.png)  |  ![](brickDetails.png)
 
-## Why Not Use Premoulded Brick Sheets?
+## Why Not Use Pre-moulded Brick Sheets?
 
 I don't like is the brick pattern of pre-molded styrene brick sheets. The basic "running bond" pattern where all the bricks are "stretchers", and each brick is staggered half a brick's width from the next row is a modern quirk. The pattern has no structural integrity. It's like inoperable shutters on a home - decorative but useless. Structural brick walls have alternate courses of stretchers and headers. I decided to model [a version of the Dutch bond](https://en.wikipedia.org/wiki/Brickwork#/media/File:Brickwork_in_english_garden_wall_bond_rake.svg) that is common in the older buildings of the Cleveland flats.
 

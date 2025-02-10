@@ -24,7 +24,7 @@ In spite of the gritty urban industrial setting of my layout, my wife has been i
 
 ## Weathering/Rust
 
-The building's walls are printed in multiple parts because the building is larger than the "build plate" in my 3D printer. Once everything is glued together, I spay paint the "modern" part of the structure with white Rustoleum primer. After the paint dries, I shave chalk dust off an inexpensive brown "sidewalk chalk" that's intended for children. I let the dust fall wherever. I've never purchased proper "weathering powders". I've always used chalk, diluted India Ink, and de-glossers like Testor's Dullcote. I sometimes use hairspray that never fully dries. It remains tacky forever which is good when you want to play with effects or want to wipe it all clean with hot water. When everything seems right, I apply Dullcote or similar product over the hairspray and make it all permanent.
+The building's walls are printed in multiple parts because the building is larger than the "build plate" in my 3D printer. Once everything is glued together, I spay paint the "modern" part of the structure with white Rust-oleum primer. After the paint dries, I shave chalk dust off an inexpensive brown "sidewalk chalk" that's intended for children. I let the dust fall wherever. I've never purchased proper "weathering powders". I've always used chalk, diluted India Ink, and de-glossers like Testor's Dullcote. I sometimes use hairspray that never fully dries. It remains tacky forever which is good when you want to play with effects or want to wipe it all clean with hot water. When everything seems right, I apply Dullcote or similar product over the hairspray and make it all permanent.
 
 ![](prototypeRusty.jpg)
 

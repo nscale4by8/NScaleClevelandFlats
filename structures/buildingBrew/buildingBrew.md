@@ -9,7 +9,7 @@ Prototype        |   Model
 ![](protoFrontElevation3.png)  |  ![](modelSideElevation0.png) |
 ![](protoFrontElevation4.jpeg)  |  ![](modelFrontElevation2.png) |
 
-I modeled the Tennessee Brewery in N Sclae with a bit selective compression. In these photos, the paint isn't even dry yet. When teh paint dries, I'll brush away the lint stuck to the model and weather things a bit more. 
+I modeled the Tennessee Brewery in N Scale with a bit selective compression. In these photos, the paint isn't even dry yet. When the paint dries, I'll brush away the lint stuck to the model and weather things a bit more. 
 
 ![Back](IMG_0683.png)
 
