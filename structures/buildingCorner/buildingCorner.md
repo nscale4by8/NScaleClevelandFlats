@@ -26,7 +26,7 @@ With two of the four parallel tracks hidden from view, I need roads, railings, a
 
 For the first of the new structures, I chose the following prototype to inspire my design for the "Corner Building":
 
-![Prototype Inspiration](PrototypeCornerBuilding.png)
+![Prototype Inspiration](prototypeCornerBuilding.png)
 
 ## Model
 
