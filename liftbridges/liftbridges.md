@@ -16,7 +16,7 @@ Cuyahoga River Lift Bridges 2, 3, and 4 By Tim Evanson - https://www.flickr.com/
 Worlds Longest Shurzer Bascule Lift Bridge
 Image By C Hanchey <a href="https://www.flickr.com/photos/21953562@N07/8045523951/" title="C Hanchey Flickr"></a>License: Creative Commons Attribution-NonCommercial (CC BY-NC)
 
-# Modeled Lift Briges (3D Printed)
+# Modeled Lift Bridges (3D Printed)
 
 The Cleveland Flats boast a myriad of lift bridges over the Cuyahoga River. All of my bridge models are originals. Prototype inspirations are provided side by side for comparison.
 

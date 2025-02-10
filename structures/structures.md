@@ -19,7 +19,7 @@ Prototype                           |   Model
 
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
-![](buildingBlock/prototyprFrontElevation0.png) | ![](buildingBlock/modelFrontElevation0.png) | 
+![](buildingBlock/prototypeFrontElevation0.png) | ![](buildingBlock/modelFrontElevation0.png) | 
 [Block Building](buildingBlock/buildingBlock.md) | [More About Model](buildingBlock/buildingBlock.md) |
 
 <hr>
@@ -97,7 +97,7 @@ Prototype                           |   Model
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](buildingTurretApartments/modelTurretProfile0.png) | ![](buildingTurretApartments/modelTurretFrontElevation0.png) |
-[Turret Apartments](buildingTurretApartments/buildingTurretAppartments.md) | [More About Model](buildingTurretApartments/buildingTurretAppartments.md) |
+[Turret Apartments](buildingTurretApartments/buildingTurretAppartments.md) | [More About Model](buildingTurretApartments/buildingTurretApartments.md) |
 
 [Back](../index.md)
 
