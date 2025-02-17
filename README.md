@@ -8,7 +8,7 @@ layout: default
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](structures/buildingForbes/prototypeFrontElevation.png)  | ![](structures/buildingForbes/model.png) |
-[Forbes Ave. Today](structures/building21Augsburger/building21Augsburger.md) | [1970s Forbes Ave.](structures/building21Augsburger/building21Augsburger.md)
+[Forbes Ave. Today]([structures/building21Augsburger/building21Augsburger.md](structures/buildingForbes/buildingForbes.md)) | [1970s Forbes Ave.](structures/buildingForbes/buildingForbes.md)
 
 <hr>
 
