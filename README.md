@@ -4,7 +4,7 @@ layout: default
 
 # [Wiki Page](https://github.com/nscale4by8/nscaleClevelandFlats/wiki)
 
-The Wiki Page is a space for running comentary, documentation updates, announcements, and random thoughts. [The Wiki Page tends to be updated more often that the main web page. (click for more)](https://github.com/nscale4by8/nscaleClevelandFlats/wiki)
+The Wiki Page is a space for running commentary, documentation updates, announcements, and random thoughts. [The Wiki Page tends to be updated more often that the main web page. (click for more)](https://github.com/nscale4by8/nscaleClevelandFlats/wiki)
 
 
 <hr>
