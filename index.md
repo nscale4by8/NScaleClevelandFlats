@@ -2,6 +2,10 @@
 layout: default
 ---
 
+[Wiki Page](https://github.com/nscale4by8/nscaleClevelandFlats/wiki)
+
+<hr>
+
 # [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
 
