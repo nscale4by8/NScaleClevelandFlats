@@ -8,7 +8,7 @@ layout: default
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](structures/buildingForbes/prototypeFrontElevation.png)  | ![](structures/buildingForbes/model.png) |
-[Forbes Ave. Today](structures/building21Augsburger/building21Augsburger.md) | [1970s Forbes Ave.](structures/building21Augsburger/building21Augsburger.md)
+[Forbes Ave. Today](structures/buildingForbes/buildingForbes.md) | [1970s Forbes Ave.](structures/buildingForbes/buildingForbes.md)
 
 <hr>
 
@@ -18,7 +18,7 @@ Prototype                           |   Model
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flats_Industrial_Railroad.jpg/2560px-Flats_Industrial_Railroad.jpg)  | ![](liftbridges/LiftbridgeModern00.png) | 
-[The Flats Industrial Railroad lift bridge over the Cuyahoga river: CCC BY-SA 3.0](https://commons.wikimedia.org/wiki/User:Mr.Z-man) | [More Information](./liftbridges/liftbridges.md)
+[The Flats Industrial Railroad lift bridge over the Cuyahoga river: CCC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flats_Industrial_Railroad.jpg/640px-Flats_Industrial_Railroad.jpg) | [More Information](./liftbridges/liftbridges.md)
 
 <hr>
 
