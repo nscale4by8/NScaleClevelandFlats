@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# [Wiki Page](https://github.com/nscale4by8/nscaleClevelandFlats/wiki)
+
+The Wiki Page is a space for running comentary, documentation updaates, and announcements. The Wiki Page tends to be updated more often that the main web page.
+
+<hr>
+
 # [Structures](structures/structures.md) 
 [(click for more)](structures/structures.md)
 
@@ -18,7 +24,7 @@ Prototype                           |   Model
 Prototype                           |   Model                   
 :----------------------------------:|:----------------------------------:
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flats_Industrial_Railroad.jpg/2560px-Flats_Industrial_Railroad.jpg)  | ![](liftbridges/LiftbridgeModern00.png) | 
-[The Flats Industrial Railroad lift bridge over the Cuyahoga river: CCC BY-SA 3.0](https://commons.wikimedia.org/wiki/User:Mr.Z-man) | [More Information](./liftbridges/liftbridges.md)
+[The Flats Industrial Railroad lift bridge over the Cuyahoga river: CCC BY-SA 3.0](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flats_Industrial_Railroad.jpg/640px-Flats_Industrial_Railroad.jpg) | [More Information](./liftbridges/liftbridges.md)
 
 <hr>
 
